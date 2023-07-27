@@ -1,0 +1,23 @@
+
+
+ul {
+    list-style: none;
+}
+
+ul a {
+    text-decoration: none;
+    color: #2e2e2e;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(106 147 167);
+}
+
+input {
+    text-align: right;
+}
+table, th, td {
+    border: 1px solid black;
+}
